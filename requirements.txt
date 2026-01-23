@@ -1,1 +1,10 @@
-
+streamlit
+pandas
+numpy
+plotly
+pyotp
+prophet
+scipy
+SmartApi-python
+websocket-client
+logzero
