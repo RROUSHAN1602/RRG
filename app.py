@@ -12,7 +12,7 @@ st.set_page_config(page_title="RRG - Angel One Indices", layout="wide")
 
 @st.cache_resource
 def angel_login():
-    api_key = "EKa93pFu"
+    api_key = "g5o6vfTl"
     client_id = "R59803990"
     password = "1234"
     totp_secret = "5W4MC6MMLANC3UYOAW2QDUIFEU"
